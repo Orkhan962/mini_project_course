@@ -8,3 +8,4 @@ R7,River Line,Riverfront,Old Town,10.5
 R8,Hospital Link,Central Station,City Hospital,7.4
 R9,Stadium Shuttle,Central Station,Stadium,6.8
 R10,Night Loop,Night Depot,Night Depot,19.6
+R11,Airport line,Lokbatan,Airport,40.0

@@ -1,0 +1,34 @@
+DAILY OPERATIONS REPORT
+Generated on: 2026-02-02 20:20:01.510554
+---------------------------------
+
+drivers.txt: 15 records
+routes.txt: 11 records
+schedules.txt: 12 records
+vehicles.txt: 17 records
+
+VEHICLES STATUS
+Total vehicles: 17
+Active vehicles: 13
+Vehicles under maintenance: 4
+- V104 (bus) – Route R5
+- V108 (bus) – Route R9
+- V202 (tram) – Route R4
+- V303 (metro) – Route R6
+
+ROUTES SUMMARY
+Total routes: 11
+Routes with active vehicles: 9
+
+DRIVER WORKLOAD
+Total drivers: 15
+Drivers with overtime:
+- D03 Sofia Rossi – 9.0 hours (Vehicle V202)
+- D06 Tom Wagner – 8.5 hours (Vehicle V104)
+- D09 Jan Kowalski – 9.2 hours (Vehicle V302)
+- D11 Ahmed Hassan – 8.8 hours (Vehicle V106)
+- D14 Peter Novak – 8.3 hours (Vehicle V108)
+
+SCHEDULE SUMMARY
+Total scheduled trips: 12
+Schedules using vehicles under maintenance: 1
