@@ -1,0 +1,12 @@
+DAILY OPERATIONS REPORT
+Generated on: 2026-01-30
+---------------------------------
+
+drivers.txt: 15 records
+routes.txt: 10 records
+schedules.txt: 12 records
+vehicles.txt: 17 records
+
+ROUTES SUMMARY
+Total routes: 10
+Routes with active vehicles: 10
